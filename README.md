@@ -15,7 +15,8 @@ Create a file called `config.json` in the same folder that you placed the JAR fi
 Look below for an example
 
 ```
-{"token": "",
+{
+"token": "",
   "automute": "if you want the bot to auto punish",
   "log": "if you want the bot to log punishments",
   "staff_id": "ID of the staff role",
